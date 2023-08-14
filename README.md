@@ -1,19 +1,19 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif)
 <h1 align="center">Hi 👋, I'm Kevin Sirma</h1>
-<h3 align="center">A frontend Developer with angular||python Enthusiast</h3>
+<h3 align="center">A Full stack Developer with proficiency in Springboot(Java) and Angular</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirma-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="sirma-cloud" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sheikh_onion" target="blank"><img src="https://img.shields.io/twitter/follow/sheikh_onion?logo=twitter&style=for-the-badge" alt="sheikh_onion" /></a> </p>
 
-- 🔭 I’m currently working on **KESRA Dashboard**
+- 🔭 I’m currently working on **A Helthcare Management system**
 
-- 🌱 I’m currently learning **Springboot and nodejs**
+- 🌱 I’m currently learning **Sring boot and Implementation of microservices and RESTFUL API'S**
 
-- 👯 I’m looking to collaborate on **anything, especially angular projects**
+- 👯 I’m looking to collaborate on **anything, especially angular And springboot projects**
 
-- 🤝 I’m looking for help with **Backend springboot**
+- 🤝 I’m looking for help with *DevOps**
 
 - 💬 Ask me about **figma, Angular, python**
 
