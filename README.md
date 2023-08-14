@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A Helthcare Management system**
 
-- 🌱 I’m currently learning **Sring boot and Implementation of microservices and RESTFUL API'S**
+- 🌱 I’m currently learning **Spring boot and Implementation of microservices and RESTFUL API'S**
 
 - 👯 I’m looking to collaborate on **anything, especially angular And springboot projects**
 
